@@ -2830,6 +2830,17 @@ figure {
   background-color: #c997c6;
 }
 
+.copyrights {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: 2%;
+  color: #fff;
+  font-size: 0.75em;
+  line-height: 1.25;
+}
+
 @media screen and (max-width: 991px) {
   body {
     font-size: 12px;
