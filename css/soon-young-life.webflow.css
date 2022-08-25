@@ -2007,6 +2007,17 @@ figure {
   line-height: 1.6;
 }
 
+.copyrights {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: 2%;
+  color: #fff;
+  font-size: 0.75em;
+  line-height: 1.25;
+}
+
 .c-home-right__subchapters {
   width: 100%;
   margin-left: 2.43em;
