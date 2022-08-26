@@ -3024,6 +3024,10 @@ figure {
     align-self: center;
   }
 
+  .copyrights {
+    text-align: center;
+  }
+
   .chapter-img.img-1 {
     max-height: none;
   }
@@ -3695,6 +3699,13 @@ figure {
 
   .chapter-rich-text h3 {
     font-size: 5.5vw;
+  }
+
+  .copyrights {
+    width: 95%;
+    max-width: 375px;
+    font-size: 9.5px;
+    bottom: 16%;
   }
 
   .chapter-rich-text blockquote {
